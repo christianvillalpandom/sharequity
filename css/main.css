@@ -1,0 +1,42 @@
+.pipline {
+	height: 100%;
+	color: #fff;
+	position: relative;
+	font-size: 20px;
+	top: 10px;
+}
+
+.enre:hover {
+	color: blue !important;
+}
+
+.campobus {
+	background-color: gray;
+	color: white !important;
+	border: white 2px solid;
+}
+
+.botonen {
+	border: white 2px solid;
+	color: white !important;
+	background-color: gray;
+	border-radius: 100px;
+
+}
+
+::-webkit-input-placeholder { 
+  color: white !important;
+  opacity: 1;
+}
+::-moz-placeholder { 
+  color: white !important;
+  opacity: 1;
+}
+:-ms-input-placeholder {
+  color: white !important;
+  opacity: 1;
+}
+:-moz-placeholder {
+  color: white !important;
+  opacity: 1;
+}
